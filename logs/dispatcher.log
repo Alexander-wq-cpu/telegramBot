@@ -1,0 +1,85 @@
+2025-02-01 13:23:37 DEBUG TelegramBot:32 - loggggg
+2025-02-01 13:31:53 DEBUG TelegramBot:33 - lombok
+2025-02-01 13:41:38 DEBUG TelegramBot:35 - hello from chat
+2025-02-01 13:41:38 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2025-02-02 10:08:21 DEBUG TelegramBot:48 - vcb
+2025-02-02 10:42:37 DEBUG UpdateProducerImpl:13 - hhh
+2025-02-02 10:44:03 DEBUG UpdateProducerImpl:13 - dsf
+2025-02-02 10:44:27 DEBUG UpdateProducerImpl:13 - 
+2025-02-02 10:44:54 DEBUG UpdateProducerImpl:13 - 
+2025-02-02 10:45:02 DEBUG UpdateProducerImpl:13 - 
+2025-02-03 18:19:25 DEBUG UpdateProducerImpl:22 - hello 33
+2025-02-04 09:51:02 DEBUG UpdateProducerImpl:22 - рк
+2025-02-05 13:02:16 DEBUG UpdateProducerImpl:22 - hello me
+2025-02-05 13:03:10 DEBUG UpdateProducerImpl:22 - wow
+2025-02-05 19:35:45 DEBUG UpdateProducerImpl:22 - adding User
+2025-02-06 16:53:44 ERROR UpdateController:39 - Unsupported message type is receivedUpdate(updateId=4976395, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=1086124816, type=private, title=null, firstName=Александр, lastName=Ильин, userName=stomperto, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=1086124816, firstName=Александр, isBot=false, lastName=Ильин, userName=stomperto, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1738850026, oldChatMember=ChatMemberMember(status=member, user=User(id=7712898046, firstName=BabushkinPogreb, isBot=true, lastName=null, userName=babushkin_pogreb_sasha_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=7712898046, firstName=BabushkinPogreb, isBot=true, lastName=null, userName=babushkin_pogreb_sasha_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2025-02-06 16:53:44 ERROR UpdateController:39 - Unsupported message type is receivedUpdate(updateId=4976396, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=1086124816, type=private, title=null, firstName=Александр, lastName=Ильин, userName=stomperto, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=1086124816, firstName=Александр, isBot=false, lastName=Ильин, userName=stomperto, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1738850027, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=7712898046, firstName=BabushkinPogreb, isBot=true, lastName=null, userName=babushkin_pogreb_sasha_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=7712898046, firstName=BabushkinPogreb, isBot=true, lastName=null, userName=babushkin_pogreb_sasha_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2025-02-06 16:53:45 DEBUG UpdateProducerImpl:22 - /start
+2025-02-06 16:53:50 DEBUG UpdateProducerImpl:22 - /help
+2025-02-06 16:54:04 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-06 16:54:09 DEBUG UpdateProducerImpl:22 - /cancel
+2025-02-06 16:54:36 DEBUG UpdateProducerImpl:22 - /test commamd
+2025-02-06 16:55:08 DEBUG UpdateProducerImpl:22 - 
+2025-02-06 16:55:26 DEBUG UpdateProducerImpl:22 - 
+2025-02-06 18:53:44 DEBUG UpdateProducerImpl:22 - 
+2025-02-06 19:00:57 DEBUG UpdateProducerImpl:22 - 
+2025-02-06 19:17:12 DEBUG UpdateProducerImpl:22 - 
+2025-02-06 19:20:59 DEBUG UpdateProducerImpl:22 - 
+2025-02-07 19:59:02 DEBUG UpdateProducerImpl:22 - 
+2025-02-08 14:59:14 DEBUG UpdateProducerImpl:22 - 
+2025-02-08 14:59:29 DEBUG UpdateProducerImpl:22 - 
+2025-02-08 17:38:23 DEBUG UpdateProducerImpl:22 - 
+2025-02-08 20:40:50 DEBUG UpdateProducerImpl:22 - 
+2025-02-08 20:41:31 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 20:41:36 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 20:41:50 DEBUG UpdateProducerImpl:22 - fgh
+2025-02-08 20:41:53 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 20:52:44 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 20:53:01 DEBUG UpdateProducerImpl:22 - asdascx
+2025-02-08 20:53:12 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 20:53:17 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 20:53:19 DEBUG UpdateProducerImpl:22 - asdasc
+2025-02-08 20:53:39 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-08 20:53:43 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 20:53:45 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:11:43 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:11:47 DEBUG UpdateProducerImpl:22 - /cancel
+2025-02-08 21:11:55 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:12:02 DEBUG UpdateProducerImpl:22 - /cancel
+2025-02-08 21:12:03 DEBUG UpdateProducerImpl:22 - /cancel
+2025-02-08 21:12:05 DEBUG UpdateProducerImpl:22 - /cancel
+2025-02-08 21:12:21 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:14:27 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 21:14:29 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:14:32 DEBUG UpdateProducerImpl:22 - /cancel
+2025-02-08 21:23:15 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:23:28 DEBUG UpdateProducerImpl:22 - labourgoing@yandex.ru
+2025-02-08 21:27:56 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:30:24 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 21:31:44 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:32:44 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:34:52 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:35:02 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-08 21:44:38 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 21:44:40 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:45:25 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:45:33 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-08 21:46:34 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:46:49 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-08 21:50:13 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 21:50:15 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:50:28 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-08 21:51:07 DEBUG UpdateProducerImpl:22 - /help
+2025-02-08 21:51:09 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 21:52:46 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-08 22:37:06 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-08 22:51:53 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-08 23:00:19 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-09 08:52:32 DEBUG UpdateProducerImpl:22 - /registration
+2025-02-09 08:52:42 DEBUG UpdateProducerImpl:22 - triviallman@mail.ru
+2025-02-09 08:53:57 DEBUG UpdateProducerImpl:22 - 
+2025-02-09 10:05:35 DEBUG UpdateProducerImpl:22 - 
+2025-02-09 10:06:03 DEBUG UpdateProducerImpl:22 - 
+2025-02-09 10:13:25 DEBUG UpdateProducerImpl:22 - 
+2025-02-09 10:13:25 DEBUG UpdateProducerImpl:22 - 
